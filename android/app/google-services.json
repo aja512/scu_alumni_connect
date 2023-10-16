@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652451640989",
+    "project_id": "scu-alumni-connect",
+    "storage_bucket": "scu-alumni-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652451640989:android:fafeac9a68fae59ef0c674",
+        "android_client_info": {
+          "package_name": "com.example.scu_alumni_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652451640989-lhbosvhudujucc1aq63nca36g87e6cvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scu_alumni_connect",
+            "certificate_hash": "0afabe78fcdd5ac1cf2551dd80acc8f6cec74192"
+          }
+        },
+        {
+          "client_id": "652451640989-v3gqjdn14fso85daejqntc1q8cpnvl3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBq0qV-f7b4nkTqGEBthqgPnDeoEQVv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652451640989-ghk65tamib39ruenmc6s92tkfog4uggv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652451640989-jcqanlcmb7nl7gk0u514qqe81916c029.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scuAlumniConnect.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
