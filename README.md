@@ -3,9 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
-
-![Demo Video](https://github.com/aja512/scu_alumni_connect/blob/main/screenshots/demo.gif)
-
+<img src="https://github.com/aja512/scu_alumni_connect/blob/main/screenshots/demo.gif" alt="DEMO" width="500" height="600">
+<!-- ![Demo Video](https://github.com/aja512/scu_alumni_connect/blob/main/screenshots/demo.gif)
+ -->
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
