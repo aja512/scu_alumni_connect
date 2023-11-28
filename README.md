@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Demo Video](#)
+![Demo Video](https://github.com/aja512/scu_alumni_connect/blob/main/screenshots/demo.gif)
 
 This project is a starting point for a Flutter application.
 
