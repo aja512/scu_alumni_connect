@@ -1,6 +1,6 @@
 # scu_alumni_connect
 
-A new Flutter project.
+Chat Application to connect with the Alumni.
 
 ## Getting Started
 <img src="https://github.com/aja512/scu_alumni_connect/blob/main/screenshots/demo.gif" alt="DEMO" width="500" height="600">
